@@ -10,7 +10,7 @@ detach(data)
 
 #------------------------------------------------------------------------------------------------------
 #23.out.2023
-#Os dados abaixo sao referentes ao TCC da Poliana Silva Pereira. Ela avaliou o numero de cigarrinha-
+#As analises abaixo sao referentes ao TCC da Poliana Silva Pereira. Ela avaliou o numero de cigarrinha-
 #do-milho Dalbulus maidis em funcao da tolerancia do hibrido (baixa, media e alta) e o numero de 
 #pulverizacoes (0 a 5) no tempo (0 a 28 dias) em um DIC no campo experimental da Embrapa.
 
